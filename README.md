@@ -1,11 +1,5 @@
 # 💫 About Me:
-- 🔭 I am working on `Dokta Mordi`: An Intelligent Healthcare Information Distribution System:: Collect, analyze, and match.
-
-        🔄
-     ↗       ↘
-Collect     Analyze
-   ↖         ↙
-    Train ← Match
+- 🔭 I am working on `Dokta Mordi`: An Intelligent Healthcare Information Distribution System:: Collect -> analyze -> train -> match 🔄
 
 
 # 💻 Tech Stack:
