@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I am working on `Dokta Mordi`: An Intelligent Healthcare Information Distribution System:: Collect -> analyze -> train -> match 🔄
+- 🔭 I am working on `Dokta Mordi`: A healthcare interoperability engine that translates diverse data formats (HL7, FHIR, DICOM, CSV) into a canonical model.
 
 
 # 💻 Tech Stack:
