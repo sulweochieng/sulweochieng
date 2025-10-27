@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I am working on `Dokta Mordi`: A healthcare interoperability engine that translates diverse data formats (HL7, FHIR, DICOM, CSV) into a canonical model.
+- 🔭 I am working on `Mordi`: A healthcare interoperability engine that translates diverse data formats (HL7, FHIR, DICOM, CSV) into a canonical model.
 
 
 # 💻 Tech Stack:
